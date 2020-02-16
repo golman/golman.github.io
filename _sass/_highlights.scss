@@ -22,12 +22,6 @@
   font-family: "Dank Mono", "Fira Code", Menlo, Monaco, Consolas, "Courier New", monospace;
 }
 
-.highlight pre, pre, .highlight .hll {
-  background-color: #282a36;
-  border: 1px solid #ccc;
-  padding: 9px;
-}
-
 /* Dracula Theme v1.2.5
  *
  * https://github.com/zenorocha/dracula-theme
@@ -64,6 +58,7 @@ $dt-yellow: #f1fa8c;
  */
 
 .highlight {
+  padding: 4px;
   background: $dt-gray-dark;
   color: $dt-gray-light;
 
