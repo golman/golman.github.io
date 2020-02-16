@@ -19,16 +19,16 @@ avatar: https://raw.githubusercontent.com/golman/golman.github.io/master/images/
 footer-links:
   dribbble:
   email: george.golman@gmail.com
-  facebook:
+  facebook: george.golman
   flickr: golman
   github: golman
   instagram: golman
-  linkedin:
+  linkedin: grundig
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: g_goolman
+  twitter: g_golman
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: channel/UCcMIasNqZp5f7GH8p1lpWfg
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://golman.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
